@@ -18,7 +18,9 @@ Then you know why.
 
 ##Install
 Firetabs is very young and hosted only here for now, it cannot be found at addons.mozilla.org.
-You can install extension manually using this link: [download page]
+
+
+You can install extension using <a href="https://github.com/sunlaud/Firetabs/raw/dist/firetabs-0.3.xpi">this link</a>.
 
 Or install from .xpi file (previously downloaded from link above or obtained by other means):
 
@@ -30,7 +32,7 @@ Or install from .xpi file (previously downloaded from link above or obtained by 
 ##Develop
 You are welcome to contribute!
 
-In order to build binary distribution you must have gradle (http://www.gradle.org) installed.
+In order to build binary distribution you must have <a href="http://www.gradle.org">gradle</a> installed.
 To build .xpi execute
 
     gradle xpi
