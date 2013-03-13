@@ -20,7 +20,7 @@ Then you know why.
 Firetabs is very young and hosted only here for now, it cannot be found at addons.mozilla.org.
 
 
-You can install extension using <a href="https://github.com/sunlaud/Firetabs/raw/dist/firetabs-0.3.xpi">this link</a>.
+You can install extension using <a type="application/x-xpinstall" href="https://github.com/sunlaud/Firetabs/raw/dist/firetabs-0.3.xpi">this link</a>.
 
 Or install from .xpi file (previously downloaded from link above or obtained by other means):
 
